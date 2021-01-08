@@ -1,0 +1,16 @@
+{
+  "name": "chronistbot2",
+  "version": "0.1.0",
+  "description": "A dicord bot for rps using commando",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "commando",
+    "roleplay"
+  ],
+  "author": "NeoCortex <sschmelz64@gmail.com>",
+  "license": "MIT"
+}
